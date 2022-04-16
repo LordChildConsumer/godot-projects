@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SLOW DOWN SPEED UP_05.wav-a68bd71c820df6eef326aa19ad08cf5c.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Cassette Preview/AUDIO/SLOW DOWN SPEED UP_05.wav"
+dest_files=[ "res://.import/SLOW DOWN SPEED UP_05.wav-a68bd71c820df6eef326aa19ad08cf5c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

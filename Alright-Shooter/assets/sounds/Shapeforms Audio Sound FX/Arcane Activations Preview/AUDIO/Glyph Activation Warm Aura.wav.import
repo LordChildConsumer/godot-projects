@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Glyph Activation Warm Aura.wav-dea813d9d39f3b0890353d3ce4d87725.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Arcane Activations Preview/AUDIO/Glyph Activation Warm Aura.wav"
+dest_files=[ "res://.import/Glyph Activation Warm Aura.wav-dea813d9d39f3b0890353d3ce4d87725.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

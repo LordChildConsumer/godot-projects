@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/CASSETTE_RATTLE_12.wav-b330a2a040c55a0556d94001980110fd.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Cassette Preview/AUDIO/CASSETTE_RATTLE_12.wav"
+dest_files=[ "res://.import/CASSETTE_RATTLE_12.wav-b330a2a040c55a0556d94001980110fd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

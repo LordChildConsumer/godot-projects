@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GUNTech_Tormentor Shotgun Fire_05.wav-56c92df64ef811b4a6596e6a179bf8ca.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Sci Fi Weapons Cyberpunk Arsenal Preview/AUDIO/GUNTech_Tormentor Shotgun Fire_05.wav"
+dest_files=[ "res://.import/GUNTech_Tormentor Shotgun Fire_05.wav-56c92df64ef811b4a6596e6a179bf8ca.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

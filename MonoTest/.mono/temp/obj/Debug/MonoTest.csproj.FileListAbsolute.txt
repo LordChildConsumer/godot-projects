@@ -1,0 +1,9 @@
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.csproj.AssemblyReference.cache
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.AssemblyInfoInputs.cache
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.AssemblyInfo.cs
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.csproj.CoreCompileInputs.cache
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/bin/Debug/MonoTest.dll
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/bin/Debug/MonoTest.pdb
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.dll
+/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/Debug/MonoTest.pdb

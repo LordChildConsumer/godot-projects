@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kultist/Godot/Projects/MonoTest/MonoTest.csproj": {}
+  },
+  "projects": {
+    "/home/kultist/Godot/Projects/MonoTest/MonoTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kultist/Godot/Projects/MonoTest/MonoTest.csproj",
+        "projectName": "MonoTest",
+        "projectPath": "/home/kultist/Godot/Projects/MonoTest/MonoTest.csproj",
+        "packagesPath": "/home/kultist/.nuget/packages/",
+        "outputPath": "/home/kultist/Godot/Projects/MonoTest/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kultist/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

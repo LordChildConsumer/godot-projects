@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ONE_SHOT_CINEMATIC_EFFECT_10.wav-d3cac9a27de09968979987e01359cca5.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Dystopia – Ambience and Drone Preview/AUDIO/ONE_SHOT_CINEMATIC_EFFECT_10.wav"
+dest_files=[ "res://.import/ONE_SHOT_CINEMATIC_EFFECT_10.wav-d3cac9a27de09968979987e01359cca5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/AMBIENCE_UNDERGROUND_POWER_STATION_LOOP.wav-eb3c2e4c3d271d94bb6cefdc48d8d545.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Dystopia – Ambience and Drone Preview/AUDIO/AMBIENCE_UNDERGROUND_POWER_STATION_LOOP.wav"
+dest_files=[ "res://.import/AMBIENCE_UNDERGROUND_POWER_STATION_LOOP.wav-eb3c2e4c3d271d94bb6cefdc48d8d545.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

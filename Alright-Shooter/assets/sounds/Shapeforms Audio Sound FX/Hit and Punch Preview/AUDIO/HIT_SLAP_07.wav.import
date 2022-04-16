@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/HIT_SLAP_07.wav-720b9d90d1772236142c1305f7b9e243.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Hit and Punch Preview/AUDIO/HIT_SLAP_07.wav"
+dest_files=[ "res://.import/HIT_SLAP_07.wav-720b9d90d1772236142c1305f7b9e243.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

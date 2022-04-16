@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S299NXqRQGAseiB1V5/iwkCoVXSmlH3uJ4Lq6rl8qmQRz7rzCjK7eOiS+rmwnfMJJWr9baeM+M5b7avTxRFCkw==",
+  "success": true,
+  "projectFilePath": "/home/kultist/Godot/Projects/MonoTest/MonoTest.csproj",
+  "expectedPackageFiles": [
+    "/home/kultist/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/kultist/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/AMBIENCE_SPACECRAFT_HOLD_LOOP.wav-c45b5d1c75817b5c4b9db352766cad79.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Dystopia – Ambience and Drone Preview/AUDIO/AMBIENCE_SPACECRAFT_HOLD_LOOP.wav"
+dest_files=[ "res://.import/AMBIENCE_SPACECRAFT_HOLD_LOOP.wav-c45b5d1c75817b5c4b9db352766cad79.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

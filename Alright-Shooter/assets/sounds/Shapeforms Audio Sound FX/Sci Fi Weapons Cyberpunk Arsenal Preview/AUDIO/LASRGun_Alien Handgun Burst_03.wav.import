@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/LASRGun_Alien Handgun Burst_03.wav-8875da0e867cff664ec3faf907d868f4.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Sci Fi Weapons Cyberpunk Arsenal Preview/AUDIO/LASRGun_Alien Handgun Burst_03.wav"
+dest_files=[ "res://.import/LASRGun_Alien Handgun Burst_03.wav-8875da0e867cff664ec3faf907d868f4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

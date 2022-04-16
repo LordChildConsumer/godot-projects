@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://player/Player.tscn" type="PackedScene" id=1]
+
+[node name="World" type="Spatial"]
+
+[node name="Level" type="CSGCombiner" parent="."]
+use_collision = true
+
+[node name="CSGBox" type="CSGBox" parent="Level"]
+width = 25.0
+height = 0.2
+depth = 25.0
+
+[node name="Player" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 8, 0 )

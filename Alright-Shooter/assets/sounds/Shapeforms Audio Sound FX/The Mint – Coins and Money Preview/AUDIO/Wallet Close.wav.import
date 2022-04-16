@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Wallet Close.wav-ba5cc07414a298d33acec3561d39676c.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/The Mint – Coins and Money Preview/AUDIO/Wallet Close.wav"
+dest_files=[ "res://.import/Wallet Close.wav-ba5cc07414a298d33acec3561d39676c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

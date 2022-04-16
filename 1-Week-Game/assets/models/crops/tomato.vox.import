@@ -1,0 +1,13 @@
+[remap]
+
+importer="MagicaVoxel-Importer"
+type="Mesh"
+path="res://.import/tomato.vox-fca874ad35318f05b90116341500d60c.mesh"
+
+[deps]
+
+source_file="res://assets/models/crops/tomato.vox"
+dest_files=[ "res://.import/tomato.vox-fca874ad35318f05b90116341500d60c.mesh" ]
+
+[params]
+

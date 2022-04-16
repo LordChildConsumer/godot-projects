@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/REWIND_FAST_FORWARD_09.wav-49c7d7d885ba9b96c3f6c0630de3503c.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Cassette Preview/AUDIO/REWIND_FAST_FORWARD_09.wav"
+dest_files=[ "res://.import/REWIND_FAST_FORWARD_09.wav-49c7d7d885ba9b96c3f6c0630de3503c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

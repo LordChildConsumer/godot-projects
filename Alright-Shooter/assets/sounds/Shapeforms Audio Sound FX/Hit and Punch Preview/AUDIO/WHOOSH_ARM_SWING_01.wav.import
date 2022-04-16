@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/WHOOSH_ARM_SWING_01.wav-01503e85da6c2c70eba2a891728099a9.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Hit and Punch Preview/AUDIO/WHOOSH_ARM_SWING_01.wav"
+dest_files=[ "res://.import/WHOOSH_ARM_SWING_01.wav-01503e85da6c2c70eba2a891728099a9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

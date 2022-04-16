@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SUB_DROP_DEEP.wav-5d6e19fbc67d5c91355ab26fa930ebd0.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Dystopia – Ambience and Drone Preview/AUDIO/SUB_DROP_DEEP.wav"
+dest_files=[ "res://.import/SUB_DROP_DEEP.wav-5d6e19fbc67d5c91355ab26fa930ebd0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

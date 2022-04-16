@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Coin Dropped on Ceramic Dish.wav-7c6c156fbc673c3eef50e6bca1dbe0e2.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/The Mint – Coins and Money Preview/AUDIO/Coin Dropped on Ceramic Dish.wav"
+dest_files=[ "res://.import/Coin Dropped on Ceramic Dish.wav-7c6c156fbc673c3eef50e6bca1dbe0e2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

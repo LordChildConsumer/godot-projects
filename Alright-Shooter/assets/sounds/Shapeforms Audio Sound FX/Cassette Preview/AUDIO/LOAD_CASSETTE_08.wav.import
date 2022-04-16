@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/LOAD_CASSETTE_08.wav-1daac6c4efb05ad8db837835e5b46d04.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Cassette Preview/AUDIO/LOAD_CASSETTE_08.wav"
+dest_files=[ "res://.import/LOAD_CASSETTE_08.wav-1daac6c4efb05ad8db837835e5b46d04.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

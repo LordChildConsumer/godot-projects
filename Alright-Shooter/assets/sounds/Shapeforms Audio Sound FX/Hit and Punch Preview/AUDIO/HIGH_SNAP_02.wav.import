@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/HIGH_SNAP_02.wav-1cab0333b43fcc0a012dd129c6bcaf43.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Shapeforms Audio Sound FX/Hit and Punch Preview/AUDIO/HIGH_SNAP_02.wav"
+dest_files=[ "res://.import/HIGH_SNAP_02.wav-1cab0333b43fcc0a012dd129c6bcaf43.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
