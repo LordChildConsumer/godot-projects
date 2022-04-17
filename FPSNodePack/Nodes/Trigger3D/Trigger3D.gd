@@ -1,6 +1,8 @@
 extends Area
 
 # Exports
+export(NodePath) var signal_node
+
 export(String, "area", "area_shape", "body", "body_shape") var watch_for
 
 export(bool) var one_shot
@@ -25,8 +27,8 @@ export(Array) var signal_params
 # -----------------------
 
 func _ready():
-	self.connect(str(watch_for, "_entered"), self, "_on_Enter")
-	self.connect(str(watch_for, "_exited"), self, "_on_Exit")
+	signal_node.connect(str(watch_for, "_entered"), self, "_on_Enter")
+	signal_node.connect(str(watch_for, "_exited"), self, "_on_Exit")
 
 func _process(delta):
 	pass

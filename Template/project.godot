@@ -11,12 +11,12 @@ config_version=4
 [application]
 
 config/name="Template"
-run/main_scene="res://scenes/managers/SceneManager.tscn"
+run/main_scene="res://source/managers/SceneManager.tscn"
 config/icon="res://icon.png"
 
 [autoload]
 
-EventBus="*res://scripts/singletons/EventBus.gd"
+EventBus="*res://source/singletons/EventBus.gd"
 
 [display]
 
